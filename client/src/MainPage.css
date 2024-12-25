@@ -1,0 +1,124 @@
+div #main {
+    position: absolute;
+    top: 25%;
+    left: 25%;
+    width: 80%;
+}
+
+.fooldal {
+    padding: 20px;
+    width: 400px;
+    max-width: 400px;
+    margin: 0 auto;
+    top: 10%;
+    color: black;
+    position: absolute;
+    font-weight: bold;
+}
+
+.bongessz {
+    padding: 20px;
+    width: 400px;
+    max-width: 400px;
+    color: black;
+    font-weight: bold;
+}
+
+.search {
+    width: 48%;
+    max-width: 800px;
+    margin: 0 auto;
+    color: black;
+    font-weight: bold;
+}
+
+.searchbtn {
+    width: 110px;
+    height: 50px;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    background-color: #646cff;
+    color: white;
+    margin-left: 5px;
+}
+
+.szures {
+    padding: 10px;
+    width: 110px;
+    border: 1px solid #ccc;
+    box-shadow: #ccc;
+    color: black;
+    margin-left: 5px;
+    font-weight: bold;
+    font-size: medium;
+}
+
+#modal-modal-title{
+    color: black;
+    font-size: xx-large;
+    font-weight: bolder;
+}
+
+#salMin{
+    width: 250px;
+    border-radius: 5px;
+    color: black;
+}
+#salMax{
+    width: 250px;
+    border-radius: 5px;
+    color: black;
+}
+
+#foglalkozasId{
+    width: 232px;
+    border-radius: 5px;
+    color: black;
+}
+
+.telepules{
+    width: 278px;
+    border-radius: 5px;
+    color: black;
+}
+
+.hol{
+    width: 278px;
+    border-radius: 5px;
+    color: black;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.szbtn{
+    width: 110px;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    background-color: #646cff;
+    color: white;
+    font-size: medium;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.table{
+    margin-top: 20px;
+    color: black;
+    font-weight: bold;
+}
+
+.right{
+    float: right;
+    
+}
+
+.job:hover{
+    background-color: #ccc;
+    border: 1px solid #aaaaaa;
+}
+
+.ho:hover{
+    cursor:default;
+}

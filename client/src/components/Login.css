@@ -1,0 +1,62 @@
+.panel{
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 100%;
+}
+
+.title {
+    color: black;
+    font-weight: bold;
+}
+
+.input {
+    width: 50%;
+    padding: 10px;
+    left: 25%;
+    right: 25%;
+    border-radius: 5px;
+    color: black;
+    background-color: white;
+    border: 1px solid #ccc;
+}
+
+.button {
+    width: 200px;
+    height: 50px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    background-color: #646cff;
+    color: white;
+    font-size: medium;
+}
+
+.btndiv{
+    justify-content: center;
+    display: flex;
+}
+
+.type{
+    width: 50%;
+    padding: 10px;
+    left: 25%;
+    right: 25%;
+    border-radius: 5px;
+    color: black;
+}
+
+.textarea{
+    width: 50%;
+    padding: 10px;
+    border-radius: 5px;
+    color: black;
+    background-color: white;
+    border: 1px solid #ccc;
+    resize: none
+}
+
+.textareadiv{
+    justify-content: center;
+    display: flex;
+}

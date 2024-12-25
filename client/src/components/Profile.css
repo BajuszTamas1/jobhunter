@@ -1,0 +1,86 @@
+body{
+    overflow-y: auto;
+    height: 100%;
+}
+.main {
+    position: absolute;
+    width: 65%;
+    top: 25%;
+    left: 20%;
+    color: black;
+}
+.profilom{
+    padding: 20px;
+    width: 400px;
+    max-width: 400px;
+    margin: 0 auto;
+    top: 10%;
+    color: black;
+    position:absolute;
+    font-weight: bold;
+}
+
+.logoutbtn{
+    width: 130px;
+    height: 50px;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    color: white;
+}
+
+.btndiv{
+    display: flex !important;
+    justify-content: center !important;
+}
+
+.logoutbtndiv{
+    display: flex !important;
+    justify-content: center !important;
+}
+
+.btn{
+    width: 100%;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    color: white;
+    margin-left: 5px;
+}
+
+.experiencebtns{
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    color: white;
+    margin-left: 5px;
+}
+
+.experienceadd{
+    display: flex;
+    justify-content: center;
+}
+
+.textarea{
+    resize: none;
+    height: 200px !important;
+    width: 790px !important;
+    margin: 0px 20px 20px 20px;
+}
+
+.text{
+    width: 182px;
+    margin: 0px 0px 20px 20px !important;
+}
+
+.hol{
+    margin-left: 10px !important;
+}
+
+.jobBtn{
+    width: 150px;
+    color:black;
+    margin-bottom: 5px !important;
+}
+
+.btn-error{
+    color:white;
+}
